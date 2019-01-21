@@ -1,7 +1,7 @@
 FROM alpine:3.4
 MAINTAINER Fanchcho <fanchcho@sina.com>
 
-ENV TENGINE_VERSION 2.2.2
+ENV TENGINE_VERSION 2.2.3
 ENV CONFIG "\
         --user=nginx \
         --group=nginx \
